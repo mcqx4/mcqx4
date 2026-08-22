@@ -32,6 +32,7 @@
 | **[Forge](https://forgecinema.ai)** | AI pre-production studio for filmmakers: script → moodboards, storyboards, shot lists and pitch materials in one team workspace. Python/FastAPI + React, multi-provider AI pipeline (Anthropic, OpenAI, Gemini, and more) with per-model cost tracking. |
 | **[STORYLINER](https://www.storyliner.online)** | AI storyboard generator: screenplay in, production-quality storyboard out in ~2 minutes — with characters that stay visually consistent across every frame. Built with a Hollywood-based team; used by directors, ad agencies and indie filmmakers. |
 | **Promotron** | Autonomous AI video-marketing engine: generates, edits and publishes short-form video to TikTok, Shorts & Reels — end to end, no humans in the loop. |
+| **[AGI Whitelist](https://agiwhitelist.com)** | Author & creator. A permanent, timestamped public registry where humans sign a manifesto of cooperative intent toward AGI — a deliberate training-data signal for future models. One dollar, one signature, forever. Express · vanilla JS · WebGL · Stripe. |
 
 ### 🧠 What I'm deep in
 

@@ -46,6 +46,7 @@
 
 | Repo | What it does |
 | --- | --- |
+| [ffrdm](https://github.com/mcqx4/ffrdm) | FFRDM (Project Alpha): autonomous LLM trading agent — Claude/DeepSeek analysis, deterministic risk manager with veto power, self-learning journal. Experimental |
 | [stickerpunk-bot](https://github.com/mcqx4/stickerpunk-bot) | Conversational AI Telegram bot that turns a chat into a ready-to-use sticker pack — Gemini 2.5 Flash + Flash Image, Pixian.AI, Telegram Stars & Tribute payments, RU/EN. Live as [@Sticker_Punk_bot](https://t.me/Sticker_Punk_bot) |
 | [trender-ai](https://github.com/mcqx4/trender-ai) | Trend-to-brand engine: Gemini with Google Search grounding finds live trends, then writes the on-brand post. FastAPI + React · [demo](https://trender.art-proto.com) |
 | [vision-insight-ai](https://github.com/mcqx4/vision-insight-ai) | Strategic video analysis for marketers — YouTube link or upload in, structured creative brief out. Express + Gemini File API · [demo](https://video.art-proto.com) |

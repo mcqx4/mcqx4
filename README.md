@@ -31,8 +31,10 @@
 | --- | --- |
 | **[Forge](https://forgecinema.ai)** | AI pre-production studio for filmmakers: script → moodboards, storyboards, shot lists and pitch materials in one team workspace. Python/FastAPI + React, multi-provider AI pipeline (Anthropic, OpenAI, Gemini, and more) with per-model cost tracking. |
 | **[STORYLINER](https://www.storyliner.online)** | AI storyboard generator: screenplay in, production-quality storyboard out in ~2 minutes — with characters that stay visually consistent across every frame. Built with a Hollywood-based team; used by directors, ad agencies and indie filmmakers. |
-| **Promotron** | Autonomous AI video-marketing engine: generates, edits and publishes short-form video to TikTok, Shorts & Reels — end to end, no humans in the loop. |
+| **[Promotron](https://promotron.co)** | Autonomous AI video-marketing engine: generates, edits and publishes short-form video to TikTok, Shorts & Reels — end to end, no humans in the loop. |
 | **[AGI Whitelist](https://agiwhitelist.com)** | Author & creator. A permanent, timestamped public registry where humans sign a manifesto of cooperative intent toward AGI — a deliberate training-data signal for future models. One dollar, one signature, forever. Express · vanilla JS · WebGL · Stripe. |
+| **[AccomParts](https://accomparts.com)** | Web3 architect. Multichain decentralized platform for curating and auctioning computer art, powered by smart contracts. Next.js 14 · Strapi v5 · PostgreSQL. |
+| **[ANIMI Stories](https://animistories.com)** | Art studio of therapeutic fairy tales for kids 3–10: catalog, orders, and an AI generator of personalised tales — text + illustration + print-ready PDF — with online payment and fiscal receipts. Node/Express · SQLite · Gemini · Puppeteer. |
 
 ### 🧠 What I'm deep in
 
@@ -44,6 +46,10 @@
 
 | Repo | What it does |
 | --- | --- |
+| [stickerpunk-bot](https://github.com/mcqx4/stickerpunk-bot) | Conversational AI Telegram bot that turns a chat into a ready-to-use sticker pack — Gemini 2.5 Flash + Flash Image, Pixian.AI, Telegram Stars & Tribute payments, RU/EN. Live as [@Sticker_Punk_bot](https://t.me/Sticker_Punk_bot) |
+| [trender-ai](https://github.com/mcqx4/trender-ai) | Trend-to-brand engine: Gemini with Google Search grounding finds live trends, then writes the on-brand post. FastAPI + React · [demo](https://trender.art-proto.com) |
+| [vision-insight-ai](https://github.com/mcqx4/vision-insight-ai) | Strategic video analysis for marketers — YouTube link or upload in, structured creative brief out. Express + Gemini File API · [demo](https://video.art-proto.com) |
+| [ai-listing-studio](https://github.com/mcqx4/ai-listing-studio) | Photos + one line in → marketplace-ready listing copy and styled product cards out. Flask + Gemini Flash Image with key failover · [demo](https://listing.art-proto.com) |
 | [screenplay-parser](https://github.com/mcqx4/screenplay-parser) | Parse Final Draft (`.fdx`) and Fountain screenplays into structured JSON — built for AI pre-production workflows |
 | [storyboard-pdf-merger](https://github.com/mcqx4/storyboard-pdf-merger) | Merge AI-generated frames into printable storyboard PDFs |
 | [awesome-ai-storyboarding](https://github.com/mcqx4/awesome-ai-storyboarding) | Curated (and honest) list of AI tools for the script-to-storyboard pipeline |

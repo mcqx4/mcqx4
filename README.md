@@ -36,6 +36,12 @@
 | **[AccomParts](https://accomparts.com)** | Web3 architect. Multichain decentralized platform for curating and auctioning computer art, powered by smart contracts. Next.js 14 · Strapi v5 · PostgreSQL. |
 | **[ANIMI Stories](https://animistories.com)** | Art studio of therapeutic fairy tales for kids 3–10: catalog, orders, and an AI generator of personalised tales — text + illustration + print-ready PDF — with online payment and fiscal receipts. Node/Express · SQLite · Gemini · Puppeteer. |
 
+### 🔬 Research
+
+|  |  |
+| --- | --- |
+| **[The Light-Switch Experiment](https://github.com/mcqx4/light-switch-protocol)** | Study protocol v1.0 (Université PSL, *AI & Society*). A language model normally works like a lamp on a switch — request, answer, dark. The study puts it in a harness with persistent state and an environment its actions change, then asks, under pre-registered rules, which theory-derived consciousness indicators and markers of functional affect appear, and whether removing the switch changes them. Interventional design, causal tests on activations, evidence grades fixed in advance. |
+
 ### 🧠 What I'm deep in
 
 **AI systems** — multi-agent orchestration · autonomous agents · RAG architectures · MCP · LLMOps · prompt & context engineering
